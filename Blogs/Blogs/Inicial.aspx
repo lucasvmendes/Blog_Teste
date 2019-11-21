@@ -32,7 +32,7 @@
        <p> <asp:Label ID="lblRegistrando" runat="server" Text="Ainda não é usuário do blog? "></asp:Label>
         <asp:LinkButton ID="LinkbtnRegistre" runat="server" OnClick="LinkbtnRegistre_Click">Registre-se aqui</asp:LinkButton>
     </p>
-    </div>
+        <div>Teste</div>
     </div>
    
         
